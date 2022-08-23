@@ -1,0 +1,14 @@
+<!-- HEADER TAG -->
+The <header> element represents a container for introductory content like logo or a set of navigational links.
+
+<!-- NAV TAG -->
+The <nav> element represents a part of a webpage whose purpose is to provide navigation links, either within the current document or to other documents.
+
+<!-- MAIN TAG -->
+The <main> tag specifies the main content of a document. The content inside the <main> element should be unique to the document.
+
+<!-- ASIDE TAG -->
+ The <aside> HTML element represents a portion of a document whose content is only indirectly related to the document's main content.
+
+<!-- FOOTER TAG -->
+Footer represents data related to the author, data that contains copyright information or some links related to that data.
