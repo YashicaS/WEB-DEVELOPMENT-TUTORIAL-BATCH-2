@@ -1,0 +1,36 @@
+.carImage {
+  height: 400px;
+  width: 300px;
+}
+
+.box {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  align-items: flex-end;
+  align-items: center;
+}
+
+.nature_images {
+  width: 250px;
+  height: 250px;
+  margin-bottom: 50px;
+}
+
+.container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  justify-content: space-between;
+  justify-content: space-around;
+  /* flex-direction: column; */
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+/* HOMEWORK
+1. Use some images and make a image gallery
+*/
