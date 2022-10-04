@@ -1,0 +1,49 @@
+.name {
+  font-size: 100px;
+}
+
+.desc {
+  font-size: 30px;
+  font-weight: 600;
+  /* Light Bold :  100 200 300 */
+  /* Medium Bold : 400 500 600 */
+  /* Deep Bold : 700 800 900 1000 */
+
+  font-style: italic;
+  color: rgb(56, 85, 14);
+}
+
+.link {
+  font-size: 105px;
+  font-weight: 500;
+  text-decoration: none;
+  color: crimson;
+}
+
+.companyName {
+  font-size: 30px;
+  font-weight: 600;
+  color: darkblue;
+  text-transform: lowercase;
+}
+
+.students {
+  font-size: 30px;
+  font-weight: 600;
+  color: darkblue;
+  text-transform: uppercase;
+}
+
+.mobile {
+  font-size: 30px;
+  color: brown;
+  text-align: start;
+  text-align: center;
+  text-align: end;
+}
+
+.dummyText {
+  font-size: 20px;
+  font-weight: 500;
+  text-align: justify;
+}

@@ -1,0 +1,18 @@
+.heading {
+  color: red;
+}
+
+.para {
+  color: rgb(122, 235, 88);
+}
+
+#unique {
+  color: green;
+}
+
+/* How to create a color */
+.book {
+  color: rgb(42, 57, 79);
+  color: rgb(130, 60, 12);
+}
+

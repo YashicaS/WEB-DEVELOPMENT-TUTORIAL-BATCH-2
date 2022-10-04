@@ -1,0 +1,52 @@
+.name {
+  border: 10px solid crimson;
+}
+
+.para {
+  border-left: 50px solid green;
+  border-right: 30px solid red;
+  border-top: 20px solid blue;
+  border-bottom: 60px solid violet;
+}
+
+.company1 {
+  border: 20px double red;
+}
+
+.company2 {
+  border: 20px inset fuchsia;
+}
+
+.company3 {
+  border: 20px outset forestgreen;
+}
+
+.company4 {
+  border: 20px ridge goldenrod;
+}
+
+.company5 {
+  border: 20px dotted red;
+}
+
+.company6 {
+  border: 20px dashed red;
+}
+
+.box {
+  border: 10px solid rgb(217, 255, 0);
+  height: 300px;
+  width: 300px;
+  border-radius: 1rem;
+}
+
+.wildlife {
+  width: 250px;
+  height: 250px;
+  border-radius: 20rem;
+}
+
+/* HOMEWORK
+1. Add 10 images with proper height and width having a circular border.
+2. Add 7 types of different borders to any tags in HTML.
+*/

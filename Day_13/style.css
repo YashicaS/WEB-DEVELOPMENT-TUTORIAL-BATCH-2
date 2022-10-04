@@ -1,0 +1,35 @@
+.box {
+  border: 10px solid red;
+  padding: 100px;
+}
+
+.demo {
+  border: 10px solid green;
+  padding-left: 3rem;
+  padding-top: 6rem;
+  padding-bottom: 2rem;
+  padding-right: 5rem;
+  text-align: justify;
+}
+
+.same {
+  border: 10px solid red;
+}
+
+.para {
+  border: 10px ridge crimson;
+  margin: 50px;
+}
+
+.container {
+  border: 10px solid violet;
+  padding: 100px;
+  margin-left: 50px;
+  margin-right: 100px;
+  margin-bottom: 150px;
+  margin-top: 250px;
+}
+
+/* HOMEWORK
+1. Make 3 Different Boxes or Containers having different paddings and margins having some images or text inside that
+*/
